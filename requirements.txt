@@ -1,3 +1,4 @@
 pyTelegramBotAPI
-google-genai
-olxuz
+google-generativeai
+requests
+python-dotenv
